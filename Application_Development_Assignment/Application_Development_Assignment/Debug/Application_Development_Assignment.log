@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\学术\ENG2002\Class_2_Group_20\Application_Development_Assignment\Application_Development_Assignment\Source.cpp(61): warning C4172:  returning address of local variable or temporary: quit
+D:\学术\ENG2002\Class_2_Group_20\Application_Development_Assignment\Application_Development_Assignment\Source.cpp(73): warning C4172:  returning address of local variable or temporary: name
+D:\学术\ENG2002\Class_2_Group_20\Application_Development_Assignment\Application_Development_Assignment\Source.cpp(96): warning C4172:  returning address of local variable or temporary: name
+D:\学术\ENG2002\Class_2_Group_20\Application_Development_Assignment\Application_Development_Assignment\Source.cpp(104): warning C4172:  returning address of local variable or temporary: quit
+application_cppEmail.lib(Source.obj) : warning LNK4099: PDB 'application_cppEmail.pdb' was not found with 'application_cppEmail.lib(Source.obj)' or at 'D:\学术\ENG2002\Class_2_Group_20\Application_Development_Assignment\Debug\application_cppEmail.pdb'; linking object as if no debug info
+emhandle.lib(Source.obj) : warning LNK4099: PDB 'emhandle.pdb' was not found with 'emhandle.lib(Source.obj)' or at 'D:\学术\ENG2002\Class_2_Group_20\Application_Development_Assignment\Debug\emhandle.pdb'; linking object as if no debug info
+  Application_Development_Assignment.vcxproj -> D:\学术\ENG2002\Class_2_Group_20\Application_Development_Assignment\Debug\Application_Development_Assignment.exe
