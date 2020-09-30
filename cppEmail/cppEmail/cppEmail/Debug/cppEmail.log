@@ -1,0 +1,7 @@
+﻿  cppEmail.cpp
+D:\myvsproject\ADA\cppEmail\cppEmail\cppEmail\cppEmail.cpp(22,20): warning C4018:  '<': signed/unsigned mismatch
+D:\myvsproject\ADA\cppEmail\cppEmail\cppEmail\cppEmail.cpp(59,21): warning C4018:  '<': signed/unsigned mismatch
+D:\myvsproject\ADA\cppEmail\cppEmail\cppEmail\cppEmail.cpp(99,14): warning C4018:  '<': signed/unsigned mismatch
+D:\myvsproject\ADA\cppEmail\cppEmail\cppEmail\cppEmail.cpp(138,20): warning C4018:  '<': signed/unsigned mismatch
+D:\myvsproject\ADA\cppEmail\cppEmail\cppEmail\cppEmail.cpp(165,20): warning C4018:  '<': signed/unsigned mismatch
+  cppEmail.vcxproj -> D:\myvsproject\ADA\cppEmail\cppEmail\Debug\cppEmail.lib
